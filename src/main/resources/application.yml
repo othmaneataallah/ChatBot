@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ChatBot
+  ai:
+    ollama:
+      chat:
+        model: llama3.2
